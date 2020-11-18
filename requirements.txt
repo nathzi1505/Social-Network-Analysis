@@ -26,7 +26,7 @@ nbformat==5.0.4
 ndlib==5.0.0
 netdispatch==0.0.3
 networkx==2.4
-notebook==6.0.3
+notebook==6.1.5
 numpy==1.18.2
 packaging==20.3
 pandocfilters==1.4.2
