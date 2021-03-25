@@ -42,7 +42,7 @@ pyparsing==2.4.6
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 python-igraph==0.8.0
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==19.0.0
 scipy==1.4.1
 Send2Trash==1.5.0
